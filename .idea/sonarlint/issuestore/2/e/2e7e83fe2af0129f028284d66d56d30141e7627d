@@ -1,0 +1,15 @@
+
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ğÏ¯şÿÿÿÿ8˜íîŸ 2J$8ed5b7f1-4038-4366-af73-59ac19af24ea
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µÅêşÿÿÿÿ8éˆîŸ 2J$54b2bc19-6e76-4a09-9535-87fae5f28010
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(›Ÿ¢¹8èˆîŸ 2J$fd85f3b3-f121-45ea-a9a6-018ab5306dc2
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥è“¡8éˆîŸ 2J$fcb8df73-2a94-49ca-9d3d-9d9ba99cc7f9
+…
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(›Ÿ¢¹8îˆîŸ 2J$e911ea5e-0464-427c-854d-4fb1927ab210
+l	java:S106"+Replace this use of System.out by a logger.(ü„ê!8ñˆîŸ 2J$f8bcc17a-76ea-4a4d-ba64-56bd4dd592ca
+r	java:S106"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8óˆîŸ 2J$22faafe4-ffed-43eb-8b41-20adcdee20a5
+m	java:S106"+Replace this use of System.out by a logger.(«òˆì8ôˆîŸ 2J$2baf1cbf-2801-4f39-a136-476d84d66d69
+m	java:S106"+Replace this use of System.out by a logger.(«­±8¢íîŸ 2J$ccdd3fcb-2ee1-459b-82b1-a3922da528de

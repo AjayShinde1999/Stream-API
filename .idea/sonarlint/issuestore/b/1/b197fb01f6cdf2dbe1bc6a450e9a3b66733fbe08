@@ -1,0 +1,14 @@
+
+“
+java:S3655
+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(«ñêı8Ûô‘ˆ 2J$91f24123-d76f-4994-b61b-6df214fd6c80
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ê¾¤—8€£ˆ 2J$a97d1a6f-0bae-4bde-a24e-c30d0369c40c
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Š†ÅÚıÿÿÿÿ8ÂÑ“ˆ 2J$2bda2eeb-a56e-431c-b7be-091307b76fe0
+…
+java:S1612
+"BReplace this lambda with method reference 'Comparable::compareTo'.(«ñêı8àô‘ˆ 2J$4c2e2fcd-4a1a-41ef-84da-95c170971c9e
+l	java:S106"+Replace this use of System.out by a logger.(ü„ê!8Š£ˆ 2J$31bece48-b123-4bee-a050-bbafcb2b0ce9
+m	java:S106"+Replace this use of System.out by a logger.(Å¶áç8äô‘ˆ 2J$769b43b3-a2e3-4d7b-8c98-20557e0b0e30
+G	java:S106"+Replace this use of System.out by a logger.(«òˆì8Êô“ˆ 2
